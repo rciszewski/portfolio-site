@@ -177,6 +177,7 @@ code {
 }
 
 .social .button {
+  display: flex;
   margin: 8px 15px;
 }
 

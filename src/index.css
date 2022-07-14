@@ -194,7 +194,9 @@ code {
 
   background: #12BDF3;
 
-  padding: 15px 50px;
+  padding: 15px 35px;
+
+  margin: 8px;
 
   border: none;
   border-radius: 8px;

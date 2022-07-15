@@ -13,7 +13,7 @@ const Header = () => {
                     <a href="mailto:rc72095@icloud.com" className='button'>Email</a>
                     <a href="https://www.linkedin.com/" 
                     target="_blank" rel="noreferrer" className="button">LinkedIn</a>
-                    <a href="https://github.com/" 
+                    <a href="https://github.com/rciszewski" 
                     target="_blank" rel="noreferrer" className="button">GitHub</a>
                 </div>
             </div>

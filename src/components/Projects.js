@@ -18,8 +18,11 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                    <div className='projects__card__buttons'>
+                    <a href="https://uniswap.org/" target="_blank" rel="noreferrer" className="button">Site</a>
+                    <a href="https://github.com/Uniswap/v2-core" target="_blank"
+                    rel="noreferrer" className="button">Code</a>
+                    </div>
                 </div>
 
                 <div className="projects__card">
@@ -30,8 +33,11 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://compound.finance/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" className="button">Code</a>
+                    <div className='projects__card__buttons'>
+                    <a href="https://compound.finance/" target="_blank"rel="noreferrer" className="button">Site</a>
+                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" 
+                    rel="noreferrer" className="button">Code</a>
+                    </div>
                 </div>
 
                 <div className="projects__card">
@@ -42,8 +48,10 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://aave.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
+                    <div className='projects__card__buttons'>
+                    <a href="https://aave.com/" target="_blank" rel="noreferrer" className="button">Site</a>
+                    <a href="https://github.com/aave/aave-v3-core" target="_blank" rel="noreferrer" className="button">Code</a>
+                    </div>
                 </div>
             </div>
         </section>

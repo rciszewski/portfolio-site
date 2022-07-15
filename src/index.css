@@ -112,7 +112,7 @@ code {
 
 .projects__cards {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -144,6 +144,11 @@ code {
   margin: 20px 0 10px;
 
   border-radius: 8px;
+}
+
+.projects__card__buttons {
+  display: flex;
+  justify-content: center;
 }
 
 .projects__card .button {
@@ -185,6 +190,7 @@ code {
 /* -- Footer -- */
 .footer {
   display: flex;
+  justify-content: center;
   margin: 0 auto;
   text-align: center;
 }

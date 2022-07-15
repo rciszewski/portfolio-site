@@ -9,7 +9,13 @@ const Header = () => {
             <div className='header__content'>
                 <h1>Ron Ciszewski</h1>
                 <p>Blockchain Developer</p>
-                <a href="mailto:rc72095@icloud.com" className='button'>Get In Touch</a>
+                <div>
+                    <a href="mailto:rc72095@icloud.com" className='button'>Email</a>
+                    <a href="https://www.linkedin.com/" 
+                    target="_blank" rel="noreferrer" className="button">LinkedIn</a>
+                    <a href="https://github.com/" 
+                    target="_blank" rel="noreferrer" className="button">GitHub</a>
+                </div>
             </div>
         </section>
     );
